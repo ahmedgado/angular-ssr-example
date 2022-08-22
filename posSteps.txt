@@ -1,0 +1,26 @@
+Componentes
+
+1- products list 
+2- product new
+3- category list
+4- category new
+5- orders list
+6 - order detail
+7- transactions by products search by criteria
+8 - users list 
+9 - user new
+10 - pos of sale
+11- pay
+12- arabic
+13- login
+14-manage users
+15- delete , remove temp data
+16- reports
+
+
+
+------------------------------------------
+issues
+shop.admin@gmail.com
+ShopAdmin123
+1- No Image image in products list
